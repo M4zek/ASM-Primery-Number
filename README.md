@@ -1,7 +1,7 @@
 # ASM Primery Number
 
 ### About
-A program implemented using the MIPS low-level assembler programming language (MIPS) and using the [Mars](http://courses.missouristate.edu/kenvollmar/mars/) development environment (IDE).</br></br>
+A program implemented using the MIPS low-level assembler programming language and using the [Mars](http://courses.missouristate.edu/kenvollmar/mars/) development environment (IDE).</br></br>
 
 ### How it works
 
