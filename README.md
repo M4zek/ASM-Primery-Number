@@ -1,4 +1,4 @@
-# ASM Primery Number
+# ASM Prime Number
 
 ### About
 A program implemented using the MIPS low-level assembler programming language and using the [Mars](http://courses.missouristate.edu/kenvollmar/mars/) development environment (IDE).</br></br>
